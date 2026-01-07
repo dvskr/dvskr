@@ -162,12 +162,19 @@ Contracts • Invoices • Payments
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dvskr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=e94560&icon_color=e94560&text_color=eaeaea" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvskr&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=e94560&text_color=eaeaea" height="170"/>
+  <a href="https://github.com/dvskr">
+    <img src="https://github-readme-stats.vercel.app/api?username=dvskr&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dvskr&theme=tokyonight&hide_border=true&background=1a1a2e&stroke=e94560&ring=e94560&fire=e94560&currStreakLabel=e94560"/>
+  <a href="https://github.com/dvskr">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvskr&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dvskr&theme=dark&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
