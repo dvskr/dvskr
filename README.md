@@ -1,98 +1,73 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Sathish%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Engineer%20%E2%80%A2%20Product%20Builder%20%E2%80%A2%20AI%20Enthusiast&descAlignY=55&descSize=18"/>
+<!-- Premium Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:a855f7&height=220&section=header&text=Sathish%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Engineer%20%E2%80%A2%20Product%20Builder%20%E2%80%A2%20AI%20Enthusiast&descAlignY=55&descSize=20"/>
 
 <!-- Animated Typing -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%9A%80+Building+100%2B+Data+Pipelines+at+TB+Scale;%F0%9F%92%BB+Shipping+SaaS+Products+with+AI-Assisted+Dev;%F0%9F%8C%9F+Turning+Side+Projects+into+Real+Products"/>
-</a>
-
-<br/>
-
-<!-- Social Links - Premium Style -->
-<a href="https://www.linkedin.com/in/dvskr">
-  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://x.com/Sathish_Daggula">
-  <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-<a href="https://www.producthunt.com/@sathish_1729">
-  <img src="https://img.shields.io/badge/-Product%20Hunt-DA552F?style=for-the-badge&logo=producthunt&logoColor=white"/>
-</a>
-<a href="https://pmhnphiring.com">
-  <img src="https://img.shields.io/badge/-Portfolio-667EEA?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-<a href="mailto:sathish.daggula@gmail.com">
-  <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%F0%9F%9A%80+Building+TB-Scale+Data+Pipelines;%F0%9F%92%BB+Shipping+SaaS+Products+with+AI;%F0%9F%8C%9F+Turning+Ideas+into+Products"/>
 </a>
 
 <br/><br/>
 
-<!-- Profile Stats -->
-<img src="https://komarev.com/ghpvc/?username=dvskr&style=for-the-badge&color=667eea&label=PROFILE+VIEWS"/>
+<!-- Social Links - Clean Professional Style -->
+<a href="https://www.linkedin.com/in/dvskr">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 &nbsp;
-<img src="https://img.shields.io/github/followers/dvskr?style=for-the-badge&color=764ba2&label=FOLLOWERS&logo=github"/>
+<a href="https://x.com/Sathish_Daggula">
+  <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
+</a>
+&nbsp;
+<a href="https://www.producthunt.com/@sathish_1729">
+  <img src="https://img.shields.io/badge/Product_Hunt-DA552F?style=for-the-badge&logo=producthunt&logoColor=white" alt="Product Hunt"/>
+</a>
+&nbsp;
+<a href="https://pmhnphiring.com">
+  <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/>
+</a>
+&nbsp;
+<a href="mailto:dvskr.333@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 </div>
 
 ---
 
-<!-- About Section with Gradient Divider -->
+<!-- About Section -->
 <h2>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
   About Me
 </h2>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-### 🚀 Quick Facts
+### �‍💻 Who Am I?
 
-- 🔭 **Currently:** Data Engineer @ Propper International
-- 📍 **Location:** St. Louis, Missouri 🇺🇸
-- 🎓 **Education:** MS Computer Science
-- 💡 **Passion:** Building products that solve real problems
-- ⚡ **Fun fact:** I ship SaaS products while optimizing TB-scale pipelines
+I'm a **Data Engineer** who builds **TB-scale pipelines** by day and ships **SaaS products** by night.
 
-### 🎯 2024 Goals
+- 🏢 **Work:** Data Engineer @ **Propper International**
+- 📍 **Based in:** St. Louis, Missouri 🇺🇸
+- 🎓 **Education:** MS in Computer Science
+- � **Superpower:** Turning complex data into actionable products
 
-- [ ] Launch Gym Tracker on iOS & Android
-- [ ] Scale PMHNP Hiring to 10K+ jobs
-- [ ] Open source my data pipeline templates
-- [x] Ship 3 products with AI-assisted development
+### 💡 What Drives Me
 
-</td>
-<td width="50%" valign="top">
+> *"The best engineers don't just move data—they build things that matter."*
 
-```typescript
-const sathish = {
-    currentRole: "Data Engineer",
-    company: "Propper International",
-    
-    expertise: {
-        dataEngineering: [
-            "Apache Spark", "Databricks",
-            "Azure Synapse", "Airflow"
-        ],
-        productBuilding: [
-            "Next.js", "React Native",
-            "Supabase", "Stripe"
-        ]
-    },
-    
-    philosophy: `The best engineers don't 
-                 just move data—they build 
-                 things that matter.`,
-    
-    currentlyBuilding: "PMHNP Hiring 🏥"
-};
+I believe in **building in public**, **shipping fast**, and using **AI as a force multiplier**. My goal is to bridge the gap between enterprise data engineering and modern product development.
+
+### 🎯 Current Focus
+
+```diff
++ Scaling PMHNP Hiring to 10K+ jobs
++ Launching Gym Tracker on iOS & Android
++ Open-sourcing my data pipeline templates
+! Always exploring new AI-assisted dev tools
 ```
 
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 ---
 
@@ -192,12 +167,25 @@ Contracts • Invoices • Payments
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dvskr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=764BA2&text_color=C9D1D9"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvskr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667EEA&text_color=C9D1D9"/>
+<a href="https://github.com/dvskr">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=dvskr&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
+</a>
+<a href="https://github.com/dvskr">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvskr&layout=compact&theme=radical&hide_border=true"/>
+</a>
 
-<br/>
+<br/><br/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=dvskr&theme=tokyonight&hide_border=true&background=0D1117&stroke=667EEA&ring=764BA2&fire=FF6B6B&currStreakLabel=667EEA"/>
+<a href="https://github.com/dvskr">
+  <img src="https://streak-stats.demolab.com?user=dvskr&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</a>
+
+<br/><br/>
+
+<!-- GitHub Trophies -->
+<a href="https://github.com/dvskr">
+  <img src="https://github-profile-trophy.vercel.app/?username=dvskr&theme=radical&no-frame=true&row=1&column=7" alt="Trophies"/>
+</a>
 
 </div>
 
@@ -305,26 +293,22 @@ While working **full-time** as Data Engineer
 
 <div align="center">
 
-*Looking for **Data Engineering** roles where I can drive real product impact.*  
-*Bonus if you value engineers who ship side projects — I'll bring that same builder energy to your team.*
+**Open to Data Engineering opportunities where I can drive real product impact.**  
+*I bring builder energy — shipping side projects while scaling enterprise pipelines.*
 
 <br/>
 
 <a href="https://www.linkedin.com/in/dvskr">
-  <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="mailto:sathish.daggula@gmail.com">
-  <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+&nbsp;
+<a href="mailto:dvskr.333@gmail.com">
+  <img src="https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
+&nbsp;
 <a href="https://x.com/Sathish_Daggula">
-  <img src="https://img.shields.io/badge/Follow_on_Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Follow_on_X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
 </a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/-%23buildinpublic-667EEA?style=flat-square"/>
-<img src="https://img.shields.io/badge/-%23dataengineering-764BA2?style=flat-square"/>
-<img src="https://img.shields.io/badge/-%23indiehacker-FF6B6B?style=flat-square"/>
 
 </div>
 
@@ -344,8 +328,14 @@ While working **full-time** as Data Engineer
 <!-- Footer -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer"/>
+<br/>
 
-**Building in public. One commit at a time. 🚀**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:a855f7&height=120&section=footer"/>
+
+<img src="https://img.shields.io/badge/Made_with-❤️-red?style=flat-square"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Building_in_Public-🚀-6366F1?style=flat-square"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Open_to_Work-✅-00C853?style=flat-square"/>
 
 </div>
