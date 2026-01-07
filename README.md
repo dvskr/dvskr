@@ -24,41 +24,31 @@
 ---
 
 <!-- About Section -->
-<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+## 👨‍💻 About Me
 
-```yaml
-name: Sathish Kumar
-location: St. Louis, Missouri, USA
-current_role: Data Engineer @ Propper International
+<table>
+<tr>
+<td width="60%" valign="top">
 
-day_job:
-  focus: Building scalable data infrastructure for multi-terabyte retail operations
-  pipelines_built: "100+"
-  technologies: [Python, SQL, AWS, Databricks, Snowflake, Spark, Airflow, Kafka]
-  impact: "40% reduced data latency | 50% automation increase | 20% cost reduction"
+**Data Engineer** @ Propper International | **Product Builder** by Night
 
-night_hustle:
-  mission: Shipping SaaS products in domains I've never worked in before
-  approach: AI-assisted development with Cursor + Claude
-  products:
-    - name: PMHNP Hiring
-      status: 🟢 LIVE
-      url: pmhnphiring.com
-      description: Job board for Psychiatric Mental Health Nurse Practitioners
-      metrics: "5,600+ jobs | 1,349 companies"
-    - name: Gym Tracker
-      status: 🟡 SHIPPING SOON
-      description: AI-powered workout tracking mobile app
-      metrics: "423 exercises | Offline-first | Apple Health integration"
-    - name: FreelancerShield
-      status: 🔵 BUILDING
-      description: Business management platform for freelancers
-      features: "Contracts | Invoices | Time tracking | Payments"
+🔧 **Day Job:** Building 100+ data pipelines for TB-scale retail ops  
+🚀 **Side Hustle:** Shipping SaaS with Cursor + Claude AI  
+📍 **Location:** St. Louis, Missouri 🇺🇸  
+🎓 **Education:** MS Computer Science
 
-philosophy: "The best engineers don't just move data — they build things that matter."
-```
+**Impact:** 40% reduced data latency • 50% automation increase • 20% cost reduction
 
-<br clear="right"/>
+> *"The best engineers don't just move data — they build things that matter."*
+
+</td>
+<td width="40%" valign="top">
+
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
