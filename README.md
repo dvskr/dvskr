@@ -1,214 +1,351 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Sathish%20Kumar&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20Engineer%20%7C%20Product%20Builder&descAlignY=55&descSize=20"/>
-  
-  <br/>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Building+Enterprise+Data+Pipelines;Shipping+SaaS+Products+with+AI;Bridging+Data+Engineering+%26+Full-Stack" alt="Typing SVG" />
-  </a>
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Sathish%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Engineer%20%E2%80%A2%20Product%20Builder%20%E2%80%A2%20AI%20Enthusiast&descAlignY=55&descSize=18"/>
 
-  <br/>
+<!-- Animated Typing -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%9A%80+Building+100%2B+Data+Pipelines+at+TB+Scale;%F0%9F%92%BB+Shipping+SaaS+Products+with+AI-Assisted+Dev;%F0%9F%8C%9F+Turning+Side+Projects+into+Real+Products"/>
+</a>
 
-  <!-- Social Badges -->
-  <a href="https://www.linkedin.com/in/dvskr">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://x.com/Sathish_Daggula">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
-  </a>
-  <a href="https://www.producthunt.com/@sathish_1729">
-    <img src="https://img.shields.io/badge/Product%20Hunt-%23DA552F.svg?style=for-the-badge&logo=producthunt&logoColor=white"/>
-  </a>
-  <a href="https://pmhnphiring.com">
-    <img src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=Google-Chrome&logoColor=white"/>
-  </a>
-  <a href="mailto:sathish.daggula@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<br/>
 
-  <br/><br/>
-  
-  <img src="https://komarev.com/ghpvc/?username=dvskr&label=Profile%20Views&color=6366F1&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/dvskr?label=Followers&style=flat-square&color=6366F1" alt="Followers"/>
-
-</div>
+<!-- Social Links - Premium Style -->
+<a href="https://www.linkedin.com/in/dvskr">
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://x.com/Sathish_Daggula">
+  <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+<a href="https://www.producthunt.com/@sathish_1729">
+  <img src="https://img.shields.io/badge/-Product%20Hunt-DA552F?style=for-the-badge&logo=producthunt&logoColor=white"/>
+</a>
+<a href="https://pmhnphiring.com">
+  <img src="https://img.shields.io/badge/-Portfolio-667EEA?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+<a href="mailto:sathish.daggula@gmail.com">
+  <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 <br/><br/>
 
-<!-- About Me Section -->
-<table align="center" border="0" width="100%">
-  <tr>
-    <td width="55%" valign="top">
-      <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist" width="35" /> About Me</h2>
-      <br/>
-      <b>Data Engineer by day, Product Builder by night.</b>
-      <br/><br/>
-      I specialize in building TB-scale data infrastructure using Apache Spark and Databricks. When I'm not optimizing ETL pipelines, I'm "vibe coding" with AI to ship full-stack SaaS products.
-      <br/><br/>
-      I believe the best engineers don't just move data—they build tools that solve real problems.
-    </td>
-    <td width="45%" valign="top">
-      <br/>
-```javascript
+<!-- Profile Stats -->
+<img src="https://komarev.com/ghpvc/?username=dvskr&style=for-the-badge&color=667eea&label=PROFILE+VIEWS"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/dvskr?style=for-the-badge&color=764ba2&label=FOLLOWERS&logo=github"/>
+
+</div>
+
+---
+
+<!-- About Section with Gradient Divider -->
+<h2>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
+  About Me
+</h2>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 Quick Facts
+
+- 🔭 **Currently:** Data Engineer @ Propper International
+- 📍 **Location:** St. Louis, Missouri 🇺🇸
+- 🎓 **Education:** MS Computer Science
+- 💡 **Passion:** Building products that solve real problems
+- ⚡ **Fun fact:** I ship SaaS products while optimizing TB-scale pipelines
+
+### 🎯 2024 Goals
+
+- [ ] Launch Gym Tracker on iOS & Android
+- [ ] Scale PMHNP Hiring to 10K+ jobs
+- [ ] Open source my data pipeline templates
+- [x] Ship 3 products with AI-assisted development
+
+</td>
+<td width="50%" valign="top">
+
+```typescript
 const sathish = {
-  role: "Data Engineer",
-  location: "St. Louis, MO 🇺🇸",
-  stack: ["Spark", "Databricks", "Azure"],
-  passion: ["Building SaaS", "AI Coding"],
-  currently: "Scaling PMHNP Hiring"
+    currentRole: "Data Engineer",
+    company: "Propper International",
+    
+    expertise: {
+        dataEngineering: [
+            "Apache Spark", "Databricks",
+            "Azure Synapse", "Airflow"
+        ],
+        productBuilding: [
+            "Next.js", "React Native",
+            "Supabase", "Stripe"
+        ]
+    },
+    
+    philosophy: `The best engineers don't 
+                 just move data—they build 
+                 things that matter.`,
+    
+    currentlyBuilding: "PMHNP Hiring 🏥"
 };
 ```
-    </td>
-  </tr>
+
+</td>
+</tr>
 </table>
 
+---
+
+<!-- What I'm Building -->
+<h2>🛠️ What I'm Building</h2>
+
+<div align="center">
+<table>
+<tr>
+<td width="33%" align="center">
 <br/>
+<a href="https://pmhnphiring.com">
+  <img src="https://img.shields.io/badge/🟢-LIVE-success?style=for-the-badge"/>
+</a>
+<br/><br/>
+<img src="https://img.icons8.com/3d-fluency/94/hospital-2.png" width="70"/>
+<h3>PMHNP Hiring</h3>
+<p><em>Niche Job Board for Psychiatric NPs</em></p>
 
-<!-- What I'm Building (Cards) -->
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="35" /> What I'm Building</h2>
+**5,600+** Jobs • **1,349** Companies
 
-<table align="center" width="100%">
-  <tr>
-    <td width="33%" align="center" valign="top">
-      <br/>
-      <img src="https://img.icons8.com/fluency/96/hospital.png" width="65" alt="PMHNP"/>
-      <br/><br/>
-      <a href="https://pmhnphiring.com"><b>PMHNP Hiring</b></a>
-      <br/>
-      <i>Niche Job Board</i>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Status-Live-success?style=flat-square"/>
-      <br/>
-      Jobs: <b>5,600+</b> | Companies: <b>1,300+</b>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js"/>
-      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase"/>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <br/>
-      <img src="https://img.icons8.com/fluency/96/dumbbell.png" width="65" alt="Gym"/>
-      <br/><br/>
-      <b>Gym Tracker</b>
-      <br/>
-      <i>AI Workout Coach</i>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Status-Shipping%20Soon-yellow?style=flat-square"/>
-      <br/>
-      423 Exercises | AI Plans
-      <br/><br/>
-      <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react"/>
-      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai"/>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <br/>
-      <img src="https://img.icons8.com/fluency/96/shield.png" width="65" alt="Shield"/>
-      <br/><br/>
-      <b>FreelancerShield</b>
-      <br/>
-      <i>Business OS</i>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Status-Building-orange?style=flat-square"/>
-      <br/>
-      Invoicing | Contracts
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma"/>
-      <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe"/>
-    </td>
-  </tr>
+<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs"/>
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=fff"/>
+<br/><br/>
+<a href="https://pmhnphiring.com">
+  <img src="https://img.shields.io/badge/Visit_Site-667EEA?style=for-the-badge"/>
+</a>
+</td>
+
+<td width="33%" align="center">
+<br/>
+<img src="https://img.shields.io/badge/🟡-SHIPPING_SOON-yellow?style=for-the-badge"/>
+<br/><br/>
+<img src="https://img.icons8.com/3d-fluency/94/dumbbell.png" width="70"/>
+<h3>Gym Tracker</h3>
+<p><em>AI-Powered Workout Coach</em></p>
+
+**423** Exercises • **AI** Plans
+
+<img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=000"/>
+<img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=fff"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Coming_to_iOS_%26_Android-lightgrey?style=for-the-badge"/>
+</td>
+
+<td width="33%" align="center">
+<br/>
+<img src="https://img.shields.io/badge/🟠-BUILDING-orange?style=for-the-badge"/>
+<br/><br/>
+<img src="https://img.icons8.com/3d-fluency/94/shield.png" width="70"/>
+<h3>FreelancerShield</h3>
+<p><em>Business OS for Freelancers</em></p>
+
+Contracts • Invoices • Payments
+
+<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=fff"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/In_Development-lightgrey?style=for-the-badge"/>
+</td>
+</tr>
 </table>
+</div>
 
-<br/>
-
-<!-- Featured Data Projects -->
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="35" /> Enterprise Data Projects</h2>
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏎️ F1 Telemetry Lakehouse</h3>
-      <p>Real-time telemetry analysis pipeline on Azure.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Delta_Lake-00ADD8?style=flat-square&logo=delta&logoColor=white"/>
-      </p>
-      <ul>
-        <li>Raw → Silver → Gold Architecture</li>
-        <li>Unity Catalog Governance</li>
-        <li>Real-time Race KPIs</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🚕 NYC Real-Time Analytics</h3>
-      <p>Processing 100M+ trip records for geospatial visibility.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Synapse-0078D4?style=flat-square&logo=azure-synapse-analytics&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Cosmos_DB-4285F4?style=flat-square&logo=azure-cosmos-db&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black"/>
-      </p>
-      <ul>
-        <li>Lakehouse-style Batch & Stream</li>
-        <li>Geospatial Visualization</li>
-        <li>HTAP Workloads</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<br/>
+---
 
 <!-- Tech Stack -->
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="35" /> Technical Arsenal</h2>
+<h2>⚡ Tech Stack</h2>
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <h3>Data Engineering</h3>
-      <img src="https://skillicons.dev/icons?i=python,aws,azure,postgresql,mongodb&theme=dark" alt="Data" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white"/>
-    </td>
-    <td align="center" width="50%">
-      <h3>Product Building</h3>
-      <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,nodejs&theme=dark" alt="Web" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Mui-007FFF?style=flat-square&logo=mui&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
-    </td>
-  </tr>
+<div align="center">
+
+### 🔧 Data Engineering
+<img src="https://skillicons.dev/icons?i=python,aws,azure,gcp,postgres,mongodb,redis&theme=dark"/>
+<br/>
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
+<img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+
+### 🚀 Product Building
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,nodejs,prisma,supabase&theme=dark"/>
+<br/>
+<img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+
+</div>
+
+---
+
+<!-- GitHub Stats -->
+<h2>📊 GitHub Stats</h2>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dvskr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=764BA2&text_color=C9D1D9"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvskr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667EEA&text_color=C9D1D9"/>
+
+<br/>
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=dvskr&theme=tokyonight&hide_border=true&background=0D1117&stroke=667EEA&ring=764BA2&fire=FF6B6B&currStreakLabel=667EEA"/>
+
+</div>
+
+---
+
+<!-- Featured Projects -->
+<h2>🏆 Data Engineering Projects</h2>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏎️ F1 Telemetry Lakehouse
+
+Real-time race analytics on **Azure Databricks**
+
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Delta_Lake-00ADD8?style=flat-square&logo=delta&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+
+- 📊 Raw → Silver → Gold Architecture
+- 🔐 Unity Catalog Governance
+- ⚡ Real-time Race KPIs
+
+</td>
+<td width="50%">
+
+### 🚕 NYC Taxi Analytics
+
+Processing **100M+** trip records
+
+<img src="https://img.shields.io/badge/Azure_Synapse-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cosmos_DB-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+
+- 🗺️ Geospatial Visualization
+- 🔄 Lakehouse Batch & Stream
+- 🔗 HTAP with Cosmos DB
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- The Journey -->
+<h2>🚀 The Journey</h2>
+
+<div align="center">
+<table>
+<tr>
+<td width="50%" align="center">
+
+### ❌ What I'd Never Done
+
+Built a job board  
+Created a mobile app  
+Shipped a SaaS from scratch  
+Used React Native  
+Integrated Stripe payments
+
+</td>
+<td width="50%" align="center">
+
+### ✅ What I Built Anyway
+
+**PMHNP Hiring** — 5,600+ jobs  
+**Gym Tracker** — 423 exercises, AI coach  
+**FreelancerShield** — Full invoicing  
+All with **AI-assisted development**  
+While working **full-time** as Data Engineer
+
+</td>
+</tr>
 </table>
 
 <br/>
 
-<!-- Activity & Snakes -->
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activity/Fire.png" alt="Fire" width="35" /> Contributions</h2>
+> *"AI doesn't replace developers. It lets developers expand into new territories."*  
+> — My Building Philosophy
+
+</div>
+
+---
+
+<!-- Activity Graph -->
+<h2>📈 Contribution Graph</h2>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dvskr&custom_title=Contribution%20Graph&bg_color=0D1117&color=667EEA&line=764BA2&point=FFFFFF&area_color=667EEA&area=true&hide_border=true"/>
+</div>
+
+---
 
 <!-- Recent Activity -->
+<h2>⚡ Recent Activity</h2>
+
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-<br/>
+---
+
+<!-- Connect -->
+<h2>🤝 Let's Connect</h2>
 
 <div align="center">
-  <img src="https://github.com/dvskr/dvskr/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
-</div>
+
+*Looking for **Data Engineering** roles where I can drive real product impact.*  
+*Bonus if you value engineers who ship side projects — I'll bring that same builder energy to your team.*
 
 <br/>
 
-<!-- Stats -->
-<div align="center">
-  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dvskr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&bg_color=0,0,0,0&hide_border=true" />
-  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dvskr&layout=compact&langs_count=8&theme=algolia&bg_color=0,0,0,0&hide_border=true" />
-</div>
+<a href="https://www.linkedin.com/in/dvskr">
+  <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:sathish.daggula@gmail.com">
+  <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://x.com/Sathish_Daggula">
+  <img src="https://img.shields.io/badge/Follow_on_Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
 
 <br/><br/>
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=AI%20doesn't%20replace%20developers.%20It%20lets%20developers%20expand%20into%20new%20territories.&author=Sathish%20Kumar" />
-  <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<img src="https://img.shields.io/badge/-%23buildinpublic-667EEA?style=flat-square"/>
+<img src="https://img.shields.io/badge/-%23dataengineering-764BA2?style=flat-square"/>
+<img src="https://img.shields.io/badge/-%23indiehacker-FF6B6B?style=flat-square"/>
+
 </div>
 
+---
+
+<!-- Snake Animation -->
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dvskr/dvskr/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dvskr/dvskr/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dvskr/dvskr/output/github-contribution-grid-snake.svg"/>
+</picture>
+</div>
+
+---
+
+<!-- Footer -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer"/>
+
+**Building in public. One commit at a time. 🚀**
+
+</div>
