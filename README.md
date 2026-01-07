@@ -265,10 +265,6 @@ Deployment      → Vercel • Expo • App Store • Play Store
   <img width="49%" src="https://streak-stats.demolab.com?user=dvskr&theme=tokyonight&hide_border=true&background=0D1117&ring=14b8a6&fire=14b8a6&currStreakLabel=14b8a6" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
-  <img width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dvskr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=c9d1d9" alt="Top Languages"/>
-</p>
-
 <!-- GitHub Activity Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dvskr&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF" alt="Activity Graph"/>
