@@ -1,12 +1,12 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sathish%20Kumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Engineer%20by%20Day%20%7C%20Product%20Builder%20by%20Night&descAlignY=52&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d9488,50:14b8a6,100:2dd4bf&height=180&section=header&text=Sathish%20Kumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Engineer%20by%20Day%20%7C%20Product%20Builder%20by%20Night&descAlignY=52&descSize=18"/>
 </p>
 
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Building+100%2B+Data+Pipelines+%40+Propper+International;Shipping+3+SaaS+Products+with+AI+Assistance;783+GitHub+Contributions+This+Year" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=14B8A6&center=true&vCenter=true&repeat=true&width=500&height=30&lines=Building+100%2B+Data+Pipelines;Shipping+SaaS+Products+with+AI;Open+to+Data+Engineering+Roles" alt="Typing SVG" />
   </a>
 </p>
 
@@ -19,14 +19,13 @@
   <a href="https://pmhnphiring.com"><img src="https://img.shields.io/badge/PMHNP%20Hiring-6366F1?style=for-the-badge&logo=safari&logoColor=white" alt="PMHNP Hiring"/></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dvskr&style=for-the-badge&color=6366f1" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/dvskr?style=for-the-badge&color=6366f1" alt="Followers"/>
-</p>
+
 
 ---
 
-<!-- About Section in Code Block Style -->
+<!-- About Section -->
+<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
 ```yaml
 name: Sathish Kumar
 location: St. Louis, Missouri, USA
@@ -58,6 +57,8 @@ night_hustle:
 
 philosophy: "The best engineers don't just move data — they build things that matter."
 ```
+
+<br clear="right"/>
 
 ---
 
@@ -188,7 +189,7 @@ All-in-one business management for freelancers.
 <br>Kafka
 </td>
 <td align="center" width="96">
-<img src="https://www.vectorlogo.zone/logos/datababorgspark/datababorgspark-icon.svg" width="48" height="48" alt="Databricks" />
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" width="48" height="48" />
 <br>Databricks
 </td>
 <td align="center" width="96">
@@ -261,8 +262,8 @@ Deployment      → Vercel • Expo • App Store • Play Store
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dvskr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dvskr&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak"/>
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dvskr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=14b8a6&icon_color=14b8a6&text_color=c9d1d9" alt="GitHub Stats"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=dvskr&theme=tokyonight&hide_border=true&background=0D1117&ring=14b8a6&fire=14b8a6&currStreakLabel=14b8a6" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
@@ -377,7 +378,7 @@ Big data pipeline on Azure Synapse
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d9488,50:14b8a6,100:2dd4bf&height=100&section=footer"/>
 </p>
 
 <p align="center">
