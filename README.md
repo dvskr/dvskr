@@ -27,6 +27,8 @@
 <!-- About Me -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist" width="30" height="30" /> About Me
 
+I’m a **Data Engineer** based in St. Louis 🇺🇸, passionate about building scalable data pipelines by day and shipping SaaS products by night. I bridge the gap between enterprise-grade backend engineering and modern full-stack development.
+
 ```javascript
 const sathish = {
     role: "Data Engineer @ Propper International",
@@ -186,6 +188,14 @@ const sathish = {
   </a>
 </p>
 
+<!-- Recent Activity -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activity/Fire.png" alt="Fire" width="30" height="30" /> Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<br/>
+
 <!-- Activity Graph -->
 <p align="center">
   <a href="https://github.com/dvskr">
@@ -293,7 +303,7 @@ const sathish = {
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dvskr"><img src="https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:sathish.daggula@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://x.com/Sathish_Daggula"><img src="https://img.shields.io/badge/Follow%20on%20Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
