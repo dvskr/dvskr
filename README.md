@@ -56,55 +56,64 @@
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="33%" align="center">
 
-### 📋 PMHNP Hiring
-**Status:** 🟢 Live at [pmhnphiring.com](https://pmhnphiring.com)
+<img src="https://img.icons8.com/3d-fluency/94/hospital-2.png" width="60"/>
 
-The first job board for Psychiatric Mental Health Nurse Practitioners.
+### PMHNP Hiring
 
-```
-📊 5,600+ jobs aggregated
-🏢 1,349 companies
-🔄 Auto-updated daily
-🎯 85% duplicate reduction
-```
+<a href="https://pmhnphiring.com"><img src="https://img.shields.io/badge/🟢_LIVE-success?style=for-the-badge"/></a>
 
-**Stack:** Next.js • TypeScript • Supabase
+Niche job board for **Psychiatric NPs**
 
-</td>
-<td width="33%" valign="top">
+| Metric | Value |
+|--------|-------|
+| 📊 Jobs | **5,600+** |
+| 🏢 Companies | **1,349** |
+| 🎯 Dedup Rate | **85%** |
 
-### 💪 Gym Tracker
-**Status:** 🟡 Shipping Soon
-
-AI-powered workout tracking mobile app.
-
-```
-🏋️ 423 exercises with GIFs
-📱 Offline-first architecture
-🤖 GPT-4 coaching system
-❤️ Apple Health integration
-```
-
-**Stack:** React Native • Expo • Supabase
+<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs"/>
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=fff"/>
 
 </td>
-<td width="33%" valign="top">
+<td width="33%" align="center">
 
-### 🛡️ FreelancerShield
-**Status:** 🔵 In Development
+<img src="https://img.icons8.com/3d-fluency/94/dumbbell.png" width="60"/>
 
-All-in-one business management for freelancers.
+### Gym Tracker
 
-```
-👥 Client management
-📄 Contract generation
-💰 Stripe invoicing
-⏱️ Time tracking
-```
+<img src="https://img.shields.io/badge/🟡_SHIPPING_SOON-yellow?style=for-the-badge"/>
 
-**Stack:** Next.js • Prisma • Stripe
+AI-powered **workout tracking** app
+
+| Feature | Detail |
+|---------|--------|
+| 🏋️ Exercises | **423** |
+| 🤖 AI Coach | **GPT-4** |
+| ❤️ Health | **Apple** |
+
+<img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=000"/>
+<img src="https://img.shields.io/badge/Expo-000?style=flat-square&logo=expo"/>
+
+</td>
+<td width="33%" align="center">
+
+<img src="https://img.icons8.com/3d-fluency/94/shield.png" width="60"/>
+
+### FreelancerShield
+
+<img src="https://img.shields.io/badge/🔵_BUILDING-blue?style=for-the-badge"/>
+
+**Business OS** for freelancers
+
+| Feature | |
+|---------|--|
+| 👥 | Clients |
+| 📄 | Contracts |
+| 💰 | Invoicing |
+
+<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs"/>
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=fff"/>
 
 </td>
 </tr>
