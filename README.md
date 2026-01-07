@@ -1,217 +1,318 @@
-<div align="center">
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sathish%20Kumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Engineer%20by%20Day%20%7C%20Product%20Builder%20by%20Night&descAlignY=52&descSize=18"/>
+</p>
 
-<!-- ========== HEADER ========== -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Sathish%20Kumar&fontSize=60&fontColor=e94560&animation=twinkling&fontAlignY=35&desc=Data%20Engineer%20%7C%20Product%20Builder%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=18&descColor=ffffff"/>
+<!-- Typing SVG -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Building+100%2B+Data+Pipelines+%40+Propper+International;Shipping+3+SaaS+Products+with+AI+Assistance;783+GitHub+Contributions+This+Year" alt="Typing SVG" />
+  </a>
+</p>
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=E94560&center=true&vCenter=true&repeat=true&width=600&height=50&lines=%F0%9F%9A%80+Building+TB-Scale+Data+Pipelines;%F0%9F%92%BB+Shipping+SaaS+Products+with+AI;%F0%9F%94%A5+Turning+Ideas+into+Products"/>
-</a>
+<!-- Social Badges -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/dvskr"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/Sathish_Daggula"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://www.producthunt.com/@sathish_1729"><img src="https://img.shields.io/badge/Product%20Hunt-DA552F?style=for-the-badge&logo=producthunt&logoColor=white" alt="Product Hunt"/></a>
+  <a href="https://www.indiehackers.com/Sathish_Daggula"><img src="https://img.shields.io/badge/IndieHackers-0066FF?style=for-the-badge&logo=indiehackers&logoColor=white" alt="IndieHackers"/></a>
+  <a href="https://pmhnphiring.com"><img src="https://img.shields.io/badge/PMHNP%20Hiring-6366F1?style=for-the-badge&logo=safari&logoColor=white" alt="PMHNP Hiring"/></a>
+</p>
 
-<br/><br/>
-
-<!-- Social Links -->
-<a href="https://www.linkedin.com/in/dvskr">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://x.com/Sathish_Daggula">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-<a href="https://www.producthunt.com/@sathish_1729">
-  <img src="https://img.shields.io/badge/Product_Hunt-DA552F?style=for-the-badge&logo=producthunt&logoColor=white"/>
-</a>
-<a href="https://pmhnphiring.com">
-  <img src="https://img.shields.io/badge/Portfolio-E94560?style=for-the-badge&logo=safari&logoColor=white"/>
-</a>
-<a href="mailto:dvskr.333@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dvskr&style=for-the-badge&color=6366f1" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/dvskr?style=for-the-badge&color=6366f1" alt="Followers"/>
+</p>
 
 ---
 
-<!-- About Section -->
-<h2>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
-  About Me
-</h2>
+<!-- About Section in Code Block Style -->
+```yaml
+name: Sathish Kumar
+location: St. Louis, Missouri, USA
+current_role: Data Engineer @ Propper International
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+day_job:
+  focus: Building scalable data infrastructure for multi-terabyte retail operations
+  pipelines_built: "100+"
+  technologies: [Python, SQL, AWS, Databricks, Snowflake, Spark, Airflow, Kafka]
+  impact: "40% reduced data latency | 50% automation increase | 20% cost reduction"
 
-### �‍💻 Who Am I?
+night_hustle:
+  mission: Shipping SaaS products in domains I've never worked in before
+  approach: AI-assisted development with Cursor + Claude
+  products:
+    - name: PMHNP Hiring
+      status: 🟢 LIVE
+      url: pmhnphiring.com
+      description: Job board for Psychiatric Mental Health Nurse Practitioners
+      metrics: "5,600+ jobs | 1,349 companies"
+    - name: Gym Tracker
+      status: 🟡 SHIPPING SOON
+      description: AI-powered workout tracking mobile app
+      metrics: "423 exercises | Offline-first | Apple Health integration"
+    - name: FreelancerShield
+      status: 🔵 BUILDING
+      description: Business management platform for freelancers
+      features: "Contracts | Invoices | Time tracking | Payments"
 
-I'm a **Data Engineer** who builds **TB-scale pipelines** by day and ships **SaaS products** by night.
-
-- 🏢 **Work:** Data Engineer @ **Propper International**
-- 📍 **Based in:** St. Louis, Missouri 🇺🇸
-- 🎓 **Education:** MS in Computer Science
-- � **Superpower:** Turning complex data into actionable products
-
-### 💡 What Drives Me
-
-> *"The best engineers don't just move data—they build things that matter."*
-
-I believe in **building in public**, **shipping fast**, and using **AI as a force multiplier**. My goal is to bridge the gap between enterprise data engineering and modern product development.
-
-### 🎯 Current Focus
-
-```diff
-+ Scaling PMHNP Hiring to 10K+ jobs
-+ Launching Gym Tracker on iOS & Android
-+ Open-sourcing my data pipeline templates
-! Always exploring new AI-assisted dev tools
+philosophy: "The best engineers don't just move data — they build things that matter."
 ```
 
-<br clear="right"/>
-
 ---
 
-<!-- What I'm Building -->
-<h2>🛠️ What I'm Building</h2>
+## 🚀 What I'm Building
 
-<div align="center">
 <table>
 <tr>
-<td width="33%" align="center">
-<br/>
-<a href="https://pmhnphiring.com">
-  <img src="https://img.shields.io/badge/🟢-LIVE-success?style=for-the-badge"/>
-</a>
-<br/><br/>
-<img src="https://img.icons8.com/3d-fluency/94/hospital-2.png" width="70"/>
-<h3>PMHNP Hiring</h3>
-<p><em>Niche Job Board for Psychiatric NPs</em></p>
+<td width="33%" valign="top">
 
-**5,600+** Jobs • **1,349** Companies
+### 📋 PMHNP Hiring
+**Status:** 🟢 Live at [pmhnphiring.com](https://pmhnphiring.com)
 
-<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs"/>
-<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=fff"/>
-<img src="https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=fff"/>
-<br/><br/>
-<a href="https://pmhnphiring.com">
-  <img src="https://img.shields.io/badge/Visit_Site-667EEA?style=for-the-badge"/>
-</a>
+The first job board for Psychiatric Mental Health Nurse Practitioners.
+
+```
+📊 5,600+ jobs aggregated
+🏢 1,349 companies
+🔄 Auto-updated daily
+🎯 85% duplicate reduction
+```
+
+**Stack:** Next.js • TypeScript • Supabase
+
 </td>
+<td width="33%" valign="top">
 
-<td width="33%" align="center">
-<br/>
-<img src="https://img.shields.io/badge/🟡-SHIPPING_SOON-yellow?style=for-the-badge"/>
-<br/><br/>
-<img src="https://img.icons8.com/3d-fluency/94/dumbbell.png" width="70"/>
-<h3>Gym Tracker</h3>
-<p><em>AI-Powered Workout Coach</em></p>
+### 💪 Gym Tracker
+**Status:** 🟡 Shipping Soon
 
-**423** Exercises • **AI** Plans
+AI-powered workout tracking mobile app.
 
-<img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=000"/>
-<img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=fff"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/Coming_to_iOS_%26_Android-lightgrey?style=for-the-badge"/>
+```
+🏋️ 423 exercises with GIFs
+📱 Offline-first architecture
+🤖 GPT-4 coaching system
+❤️ Apple Health integration
+```
+
+**Stack:** React Native • Expo • Supabase
+
 </td>
+<td width="33%" valign="top">
 
-<td width="33%" align="center">
-<br/>
-<img src="https://img.shields.io/badge/🟠-BUILDING-orange?style=for-the-badge"/>
-<br/><br/>
-<img src="https://img.icons8.com/3d-fluency/94/shield.png" width="70"/>
-<h3>FreelancerShield</h3>
-<p><em>Business OS for Freelancers</em></p>
+### 🛡️ FreelancerShield
+**Status:** 🔵 In Development
 
-Contracts • Invoices • Payments
+All-in-one business management for freelancers.
 
-<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs"/>
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=fff"/>
-<img src="https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=fff"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/In_Development-lightgrey?style=for-the-badge"/>
+```
+👥 Client management
+📄 Contract generation
+💰 Stripe invoicing
+⏱️ Time tracking
+```
+
+**Stack:** Next.js • Prisma • Stripe
+
 </td>
 </tr>
 </table>
-</div>
 
 ---
 
-<!-- Tech Stack -->
-<h2>⚡ Tech Stack</h2>
+## 💼 Professional Experience
 
-<div align="center">
+<table>
+<tr>
+<td>
+<img src="https://img.shields.io/badge/Propper_International-000000?style=for-the-badge" alt="Propper"/>
+</td>
+<td>
+<b>Data Engineer</b> • May 2023 - Present • St. Louis, MO
+</td>
+</tr>
+</table>
 
-### 🔧 Data Engineering
-<img src="https://skillicons.dev/icons?i=python,aws,azure,gcp,postgres,mongodb,redis&theme=dark"/>
-<br/>
-<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
-<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
-<img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+> Building data infrastructure for a multi-terabyte retail operation
 
-### 🚀 Product Building
-<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,nodejs,prisma,supabase&theme=dark"/>
-<br/>
-<img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
-<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+| Metric | Impact |
+|--------|--------|
+| 📊 ETL Pipelines Built | **100+** using Airflow & AWS Glue |
+| ⚡ Real-time Streaming | Kafka + Spark Structured Streaming |
+| 📈 Data Latency Reduction | **40%** improvement |
+| 🤖 Process Automation | **15+** manual processes automated |
+| 💰 Cost Optimization | **20%** reduction via Parquet/ORC |
 
-</div>
+<details>
+<summary>📍 Previous: Globus Medical (2021-2022)</summary>
 
----
+**Data Engineer** • Healthcare data engineering with HIPAA/GDPR compliance
 
-<!-- GitHub Stats -->
-<h2>📊 GitHub Stats</h2>
+- Built **50+** batch and streaming pipelines for clinical/financial data
+- Ingested **1TB+** healthcare data daily via Spark
+- **25%** reduction in claims processing SLA
+- Zero compliance violations during HIPAA audits
+- Implemented bronze-silver-gold lakehouse methodology
 
-<p align="center">
-  <a href="https://github.com/dvskr">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=dvskr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/dvskr">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dvskr&layout=compact&theme=algolia&langs_count=8" alt="Top Languages"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dvskr&theme=algolia&hide_border=true" alt="GitHub Streak"/>
-</p>
+</details>
 
 ---
 
-<!-- Featured Projects -->
-<h2>🏆 Data Engineering Projects</h2>
+## 🛠️ Tech Stack
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" />
+<br>Python
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="48" height="48" />
+<br>AWS
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure" />
+<br>Azure
+</td>
+<td align="center" width="96">
+<img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" width="48" height="48" alt="Spark" />
+<br>Spark
+</td>
+<td align="center" width="96">
+<img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" width="48" height="48" alt="Snowflake" />
+<br>Snowflake
+</td>
+<td align="center" width="96">
+<img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="48" height="48" alt="Kafka" />
+<br>Kafka
+</td>
+<td align="center" width="96">
+<img src="https://www.vectorlogo.zone/logos/datababorgspark/datababorgspark-icon.svg" width="48" height="48" alt="Databricks" />
+<br>Databricks
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="48" height="48" />
+<br>Docker
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="48" height="48" />
+<br>TypeScript
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" />
+<br>React
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+<br>Next.js
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+<br>Tailwind
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
+<br>Supabase
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="Prisma" />
+<br>Prisma
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="48" height="48" />
+<br>GitHub
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
+<br>Vercel
+</td>
+</tr>
+</table>
+
+<details>
+<summary>📊 Full Skills Breakdown</summary>
+
+### Data Engineering (Day Job)
+```
+Languages       → Python (Pandas, NumPy, PySpark) • SQL • Bash
+Big Data        → Apache Spark • Hadoop • Hive • Kafka • Delta Lake
+Warehousing     → Snowflake • Redshift • PostgreSQL • BigQuery • MongoDB  
+ETL             → Airflow • dbt • AWS Glue • Azure Data Factory • NiFi • Databricks
+Cloud           → AWS (S3, Glue, Lambda, Redshift) • Azure (ADF, Synapse) • GCP
+DevOps          → Terraform • Jenkins • GitHub Actions • Docker • Kubernetes
+BI              → Power BI • Tableau • Looker
+```
+
+### Product Building (Side Projects)
+```
+Frontend        → Next.js • React Native • TypeScript • Tailwind CSS
+Backend         → Supabase • Prisma • PostgreSQL • Stripe
+AI Tools        → Cursor • Claude • OpenAI API
+Deployment      → Vercel • Expo • App Store • Play Store
+```
+
+</details>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dvskr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dvskr&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dvskr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=c9d1d9" alt="Top Languages"/>
+</p>
+
+<!-- GitHub Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dvskr&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF" alt="Activity Graph"/>
+</p>
+
+<!-- Snake Animation -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dvskr/dvskr/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dvskr/dvskr/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/dvskr/dvskr/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+---
+
+## 📊 Featured Data Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🏎️ F1 Telemetry Lakehouse
+### 🏎️ Formula 1 Racing Analytics
+Enterprise Lakehouse on Azure for F1 telemetry
 
-Real-time race analytics on **Azure Databricks**
+**Tech:** Azure Databricks • Delta Lake • PySpark • ADF
 
-<img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white"/>
-<img src="https://img.shields.io/badge/Delta_Lake-00ADD8?style=flat-square&logo=delta&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-
-- 📊 Raw → Silver → Gold Architecture
-- 🔐 Unity Catalog Governance
-- ⚡ Real-time Race KPIs
+- 📊 Raw → Bronze → Silver → Gold architecture
+- 🔐 Unity Catalog governance
+- ⚡ Real-time race KPIs
+- 📈 Power BI dashboards
 
 </td>
 <td width="50%">
 
 ### 🚕 NYC Taxi Analytics
+Big data pipeline on Azure Synapse
 
-Processing **100M+** trip records
+**Tech:** Azure Synapse • PySpark • Cosmos DB • Power BI
 
-<img src="https://img.shields.io/badge/Azure_Synapse-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cosmos_DB-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-
-- 🗺️ Geospatial Visualization
-- 🔄 Lakehouse Batch & Stream
+- 🗺️ Geospatial visualization
+- 🔄 Batch and streaming pipelines
 - 🔗 HTAP with Cosmos DB
+- 📊 100M+ trip records processed
 
 </td>
 </tr>
@@ -219,111 +320,66 @@ Processing **100M+** trip records
 
 ---
 
-<!-- The Journey -->
-<h2>🚀 The Journey</h2>
+## 🎓 Education & Certifications
 
-<div align="center">
 <table>
 <tr>
-<td width="50%" align="center">
-
-### ❌ What I'd Never Done
-
-Built a job board  
-Created a mobile app  
-Shipped a SaaS from scratch  
-Used React Native  
-Integrated Stripe payments
-
-</td>
-<td width="50%" align="center">
-
-### ✅ What I Built Anyway
-
-**PMHNP Hiring** — 5,600+ jobs  
-**Gym Tracker** — 423 exercises, AI coach  
-**FreelancerShield** — Full invoicing  
-All with **AI-assisted development**  
-While working **full-time** as Data Engineer
-
-</td>
+<td>🎓</td>
+<td><b>M.S. Computer Science</b></td>
+<td>Southeast Missouri State University</td>
+<td>GPA: 3.7</td>
+</tr>
+<tr>
+<td>🎓</td>
+<td><b>B.Tech Computer Science</b></td>
+<td>Karunya Institute of Technology</td>
+<td></td>
+</tr>
+<tr>
+<td>📜</td>
+<td><b>Neural Networks & Deep Learning</b></td>
+<td>DeepLearning.AI</td>
+<td></td>
+</tr>
+<tr>
+<td>📜</td>
+<td><b>Python for Everybody</b></td>
+<td>University of Michigan</td>
+<td></td>
 </tr>
 </table>
 
-<br/>
+---
 
-> *"AI doesn't replace developers. It lets developers expand into new territories."*  
-> — My Building Philosophy
+## 🌱 Currently
 
-</div>
+```diff
++ 🚢 Shipping Gym Tracker to iOS and Android
++ 🔨 Building FreelancerShield features  
++ 📝 Documenting journey on Twitter #buildinpublic
++ 💼 Open to Data Engineering roles with product impact
+```
 
 ---
 
-<!-- Activity Graph -->
-<h2>📈 Contribution Graph</h2>
+## 📬 Let's Connect
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dvskr&custom_title=Contribution%20Graph&bg_color=0D1117&color=667EEA&line=764BA2&point=FFFFFF&area_color=667EEA&area=true&hide_border=true"/>
-</div>
+<p align="center">
+  <a href="mailto:dvskr.333@gmail.com">
+    <img src="https://img.shields.io/badge/Email-dvskr.333%40gmail.com-6366F1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
----
-
-<!-- Recent Activity -->
-<h2>⚡ Recent Activity</h2>
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<p align="center">
+  <i>I'm always happy to chat about Data Engineering, AI-assisted development, or the indie hacker journey.</i>
+</p>
 
 ---
 
-<!-- Connect -->
-<h2>🤝 Let's Connect</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+</p>
 
-<div align="center">
-
-**Open to Data Engineering opportunities where I can drive real product impact.**  
-*I bring builder energy — shipping side projects while scaling enterprise pipelines.*
-
-<br/>
-
-<a href="https://www.linkedin.com/in/dvskr">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="mailto:dvskr.333@gmail.com">
-  <img src="https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-&nbsp;
-<a href="https://x.com/Sathish_Daggula">
-  <img src="https://img.shields.io/badge/Follow_on_X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-</a>
-
-</div>
-
----
-
-<!-- Snake Animation -->
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dvskr/dvskr/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dvskr/dvskr/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dvskr/dvskr/output/github-contribution-grid-snake.svg"/>
-</picture>
-</div>
-
----
-
-<!-- Footer -->
-<div align="center">
-
-<br/>
-
----
-
-**Made with ❤️ by Sathish Kumar** · Building in Public 🚀 · Open to Work ✅
-
-<br/>
-
-<sub>© 2026 · Last updated: January 2026</sub>
-
-</div>
+<p align="center">
+  <i>"The best engineers don't just move data — they build things that matter."</i>
+</p>
