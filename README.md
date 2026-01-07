@@ -1,33 +1,30 @@
 <div align="center">
 
-<!-- Professional Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=150&section=header&text=Sathish%20Kumar&fontSize=50&fontColor=ffffff&fontAlignY=50"/>
+<!-- ========== HEADER ========== -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Sathish%20Kumar&fontSize=60&fontColor=e94560&animation=twinkling&fontAlignY=35&desc=Data%20Engineer%20%7C%20Product%20Builder%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=18&descColor=ffffff"/>
 
-<br/>
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=E94560&center=true&vCenter=true&repeat=true&width=600&height=50&lines=%F0%9F%9A%80+Building+TB-Scale+Data+Pipelines;%F0%9F%92%BB+Shipping+SaaS+Products+with+AI;%F0%9F%94%A5+Turning+Ideas+into+Products"/>
+</a>
 
-**`Data Engineer`** · **`Product Builder`** · **`AI Enthusiast`**
+<br/><br/>
 
-<br/>
-
-<!-- Social Links - Clean Professional Style -->
+<!-- Social Links -->
 <a href="https://www.linkedin.com/in/dvskr">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-&nbsp;
 <a href="https://x.com/Sathish_Daggula">
-  <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
-&nbsp;
 <a href="https://www.producthunt.com/@sathish_1729">
-  <img src="https://img.shields.io/badge/Product_Hunt-DA552F?style=for-the-badge&logo=producthunt&logoColor=white" alt="Product Hunt"/>
+  <img src="https://img.shields.io/badge/Product_Hunt-DA552F?style=for-the-badge&logo=producthunt&logoColor=white"/>
 </a>
-&nbsp;
 <a href="https://pmhnphiring.com">
-  <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-E94560?style=for-the-badge&logo=safari&logoColor=white"/>
 </a>
-&nbsp;
 <a href="mailto:dvskr.333@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -164,29 +161,14 @@ Contracts • Invoices • Payments
 <!-- GitHub Stats -->
 <h2>📊 GitHub Stats</h2>
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dvskr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=e94560&icon_color=e94560&text_color=eaeaea" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvskr&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=e94560&text_color=eaeaea" height="170"/>
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=dvskr&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=dvskr&show_icons=true&theme=default&hide_border=true&count_private=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=dvskr&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
-</picture>
-&nbsp;&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dvskr&layout=compact&theme=github_dark&hide_border=true"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dvskr&layout=compact&theme=default&hide_border=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvskr&layout=compact&theme=github_dark&hide_border=true"/>
-</picture>
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=dvskr&theme=github-dark-blue&hide_border=true"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=dvskr&theme=default&hide_border=true"/>
-  <img src="https://streak-stats.demolab.com?user=dvskr&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
-</picture>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dvskr&theme=tokyonight&hide_border=true&background=1a1a2e&stroke=e94560&ring=e94560&fire=e94560&currStreakLabel=e94560"/>
+</p>
 
 ---
 
