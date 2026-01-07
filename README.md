@@ -1,14 +1,13 @@
 <div align="center">
 
-<!-- Premium Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:a855f7&height=220&section=header&text=Sathish%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Engineer%20%E2%80%A2%20Product%20Builder%20%E2%80%A2%20AI%20Enthusiast&descAlignY=55&descSize=20"/>
+<!-- Professional Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=150&section=header&text=Sathish%20Kumar&fontSize=50&fontColor=ffffff&fontAlignY=50"/>
 
-<!-- Animated Typing -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%F0%9F%9A%80+Building+TB-Scale+Data+Pipelines;%F0%9F%92%BB+Shipping+SaaS+Products+with+AI;%F0%9F%8C%9F+Turning+Ideas+into+Products"/>
-</a>
+<br/>
 
-<br/><br/>
+**`Data Engineer`** · **`Product Builder`** · **`AI Enthusiast`**
+
+<br/>
 
 <!-- Social Links - Clean Professional Style -->
 <a href="https://www.linkedin.com/in/dvskr">
@@ -167,25 +166,25 @@ Contracts • Invoices • Payments
 
 <div align="center">
 
-<a href="https://github.com/dvskr">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=dvskr&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
-</a>
-<a href="https://github.com/dvskr">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvskr&layout=compact&theme=radical&hide_border=true"/>
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=dvskr&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=dvskr&show_icons=true&theme=default&hide_border=true&count_private=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=dvskr&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+</picture>
+&nbsp;&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dvskr&layout=compact&theme=github_dark&hide_border=true"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dvskr&layout=compact&theme=default&hide_border=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvskr&layout=compact&theme=github_dark&hide_border=true"/>
+</picture>
 
 <br/><br/>
 
-<a href="https://github.com/dvskr">
-  <img src="https://streak-stats.demolab.com?user=dvskr&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</a>
-
-<br/><br/>
-
-<!-- GitHub Trophies -->
-<a href="https://github.com/dvskr">
-  <img src="https://github-profile-trophy.vercel.app/?username=dvskr&theme=radical&no-frame=true&row=1&column=7" alt="Trophies"/>
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=dvskr&theme=github-dark-blue&hide_border=true"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=dvskr&theme=default&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=dvskr&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+</picture>
 
 </div>
 
@@ -330,12 +329,12 @@ While working **full-time** as Data Engineer
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:a855f7&height=120&section=footer"/>
+---
 
-<img src="https://img.shields.io/badge/Made_with-❤️-red?style=flat-square"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Building_in_Public-🚀-6366F1?style=flat-square"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Open_to_Work-✅-00C853?style=flat-square"/>
+**Made with ❤️ by Sathish Kumar** · Building in Public 🚀 · Open to Work ✅
+
+<br/>
+
+<sub>© 2026 · Last updated: January 2026</sub>
 
 </div>
