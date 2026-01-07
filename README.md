@@ -163,18 +163,18 @@ Contracts • Invoices • Payments
 
 <p align="center">
   <a href="https://github.com/dvskr">
-    <img src="https://github-readme-stats.vercel.app/api?username=dvskr&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=dvskr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/dvskr">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvskr&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dvskr&layout=compact&theme=algolia&langs_count=8" alt="Top Languages"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dvskr&theme=dark&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dvskr&theme=algolia&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
