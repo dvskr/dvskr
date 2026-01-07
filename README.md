@@ -167,22 +167,30 @@ const sathish = {
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="30" height="30" /> GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dvskr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dvskr&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak"/>
+  <a href="https://github.com/dvskr">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dvskr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dvskr&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvskr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" alt="Top Languages"/>
+  <a href="https://github.com/dvskr">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dvskr&theme=algolia" alt="GitHub Streak"/>
+  </a>
 </p>
 
 <!-- GitHub Trophies -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dvskr&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies"/>
+  <a href="https://github.com/dvskr">
+    <img src="https://github-profile-trophy.vercel.app/?username=dvskr&theme=algolia&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+  </a>
 </p>
 
 <!-- Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dvskr&custom_title=Contribution%20Graph&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area_color=6366F1&area=true&hide_border=true" alt="Activity Graph"/>
+  <a href="https://github.com/dvskr">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dvskr&theme=react-dark&hide_border=true&area=true" alt="Activity Graph"/>
+  </a>
 </p>
 
 <br/>
